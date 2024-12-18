@@ -51,11 +51,7 @@ pip install -r requirements.txt
 ```bash
 ├── data/
 │   └── Credit_Score_Classification_Dataset.csv  # Dataset utilizado no projeto
-├── notebooks/
-│   └── credit_score_analysis.ipynb            # Análise e desenvolvimento do modelo
-├── src/
-│   ├── data_preprocessing.py                 # Funções de pré-processamento dos dados
-│   └── model_training.py                     # Treinamento e avaliação dos modelos
+├── credit-score-classification.py                 # Análise e desenvolvimento do modelo
 └── README.md                                    # Documentação do projeto
 ```
 
