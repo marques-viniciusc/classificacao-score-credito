@@ -31,7 +31,7 @@ Este projeto busca automatizar e melhorar a análise de perfis de clientes para 
 1. Clone o repositório e acesse o diretório do projeto:
 ```bash
 git clone https://github.com/marques-viniciusc/classificacao-score-credito.git
-cd seu-repositorio
+cd classificacao-score-credito
 ```
 
 2. Instale os pacotes necessários:
